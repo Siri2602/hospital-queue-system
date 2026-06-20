@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+.env
+*.log
+server/hospital.db
+server/hospital.db-journal
+server/hospital.db-wal
+server/hospital.db-shm
+.DS_Store
