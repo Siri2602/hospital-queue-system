@@ -1,4 +1,4 @@
-# Hospital Queue & Patient Flow Management System
+# Hospital Queue & Patient Flow Management System 
 
 A full-stack queue management platform for hospitals and clinics: receptionist
 dashboard, real-time patient display board, wait-time prediction, analytics,
